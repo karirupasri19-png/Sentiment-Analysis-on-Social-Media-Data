@@ -19,7 +19,9 @@ Matplotlib
 TextBlob
 
 WordCloud
+
 ⚙️ Steps Performed
+
 Data loading
 
 Data cleaning
